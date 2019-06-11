@@ -9,4 +9,6 @@ There are totally 20 chapters in the book and tens of verses in each chapter.
 
 ## Get a range of verses in a specific chapter
 
-## Search through all verses in all chapters
+## Search among all verses in all chapters
+
+## Options and defaults
