@@ -6,3 +6,7 @@ https://api.analects.cf
 
 # Usage
 There are totally 20 chapters in the book and tens of verses in each chapter.
+
+## Get a range of verses in a specific chapter
+
+## Search through all verses in all chapters
